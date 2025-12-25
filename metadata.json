@@ -1,0 +1,5 @@
+{
+  "name": "Neural Mail ROI Calculator",
+  "description": "An interactive ROI calculator for Neural Mail Secure, providing comparative financial analysis against mainstream competitors like Microsoft 365 and Google Workspace.",
+  "requestFramePermissions": []
+}
